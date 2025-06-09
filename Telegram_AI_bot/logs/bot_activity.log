@@ -1,0 +1,11 @@
+2025-06-09 10:01:22,228 - db_utils - INFO - Database initialized successfully at database\conversation_history.db
+2025-06-09 10:01:23,023 - __main__ - INFO - Bot starting...
+2025-06-09 10:01:23,214 - __main__ - INFO - Scheduling AI request worker...
+2025-06-09 10:01:23,214 - handlers - INFO - AI request worker started and listening for jobs.
+2025-06-09 10:01:23,234 - telegram.ext.Application - INFO - Application started
+2025-06-09 10:02:12,917 - handlers - WARNING - LM Studio server is offline.
+2025-06-09 10:17:00,164 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-09 10:17:00,165 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-09 10:17:00,168 - __main__ - INFO - Stopping AI request worker...
+2025-06-09 10:17:00,168 - handlers - INFO - AI worker task stopping.
+2025-06-09 10:17:00,168 - __main__ - INFO - AI request worker stopped.
