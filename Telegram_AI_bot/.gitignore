@@ -1,0 +1,11 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Environment files - NEVER upload your secrets!
+.env
+*.env
+
+# IDE and editor specific files
+.idea/
+.vscode/
